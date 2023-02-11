@@ -3,15 +3,8 @@ hello git!   222222
 hello git!   333333
 hello git!   444444 
 hello git!   555555
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
 hello world!
 hello world!
 hello world!
 hello world!
-hello world!
+Creating a new branch is quick!
